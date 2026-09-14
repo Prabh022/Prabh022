@@ -59,5 +59,5 @@ Front-end and full-stack builds using modern JavaScript and clean UI design.
 ---
 
 ## 📫 Contact
-**Email:** (singhprabh23064@gmail.com)  
-**LinkedIn:** (https://www.linkedin.com/in/prabhjeet-singh-/)
+**Email:** singhprabh23064@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/prabhjeet-singh-/
