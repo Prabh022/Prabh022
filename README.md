@@ -43,13 +43,6 @@ Front-end and full-stack builds using modern JavaScript and clean UI design.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabh022&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabh022&layout=compact&theme=tokyonight)
-
----
-
 ## 🌱 Currently Working On
 - Learning more about databases  
 - Improving my project structure and documentation  
