@@ -143,23 +143,21 @@ Cloud & DevOps
 
 ---
 
-## 🏆 GitHub Trophies
+---
+
+## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prabh022&theme=radical&no-frame=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=Prabh022&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabh022&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabh022&show_icons=true&theme=radical&rank_icon=github" alt="Prabh's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Prabh022&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabh022&layout=compact&theme=radical" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabh022&layout=compact&theme=radical" alt="Top Languages" width="60%" />
 </p>
 ---
 
