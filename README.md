@@ -139,10 +139,12 @@ Cloud & DevOps
 ```
 
 ---
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prabh022&theme=radical&no-frame=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabh022&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -150,9 +152,9 @@ Cloud & DevOps
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Prabh022&show_icons=true&theme=radical&rank_icon=github" alt="Prabh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabh022&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
-</p>8
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabh022&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabh022&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
 ---
 
 ## 📫 Contact
