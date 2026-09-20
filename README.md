@@ -141,15 +141,11 @@ Cloud & DevOps
 ---
 ---
 
----
-
----
-
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Prabh022&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabh022&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabh022&show_icons=true&theme=radical&hide=stars,issues,prs" alt="GitHub Stats" width="48%" />
 </p>
 
 ---
