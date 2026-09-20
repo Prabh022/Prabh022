@@ -136,9 +136,30 @@ AI & Automation
 Cybersecurity
     ↓
 Cloud & DevOps
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)">
+    <img src="[https://github-profile-trophy.vercel.app/?username=Prabh022&theme=radical&no-frame=false&margin-w=4](https://github-profile-trophy.vercel.app/?username=Prabh022&theme=radical&no-frame=false&margin-w=4)" alt="Prabh's GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=Prabh022&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Prabh022&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true)" alt="Prabh's GitHub Stats" width="49%" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Prabh022&layout=compact&theme=radical&hide_progress=false](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabh022&layout=compact&theme=radical&hide_progress=false)" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
 ## 📫 Contact
-**Email:** singhprabh23064@gmail.com 
-**LinkedIn:** https://www.linkedin.com/in/prabhjeet-singh-/
+
+- **Email:** singhprabh23064@gmail.com
+- **LinkedIn:** [linkedin.com/in/prabhjeet-singh-](https://www.linkedin.com/in/prabhjeet-singh-/)
