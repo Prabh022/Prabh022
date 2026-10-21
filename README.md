@@ -18,6 +18,7 @@ I build command-line and full-stack projects in C, C++, Python, JavaScript, and 
 - **[Personal Expense Tracker](https://github.com/Prabh022/personal-expense-tracker)** (C) — expense tracking with summaries and file persistence
 - **[Simple Contact Book](https://github.com/Prabh022/simple-contact-book)** (C) — contact storage and search in a plain text file
 - **[Pong Game](https://github.com/Prabh022/pong-game)** (JavaScript) — browser Pong on HTML canvas: mouse paddle vs an AI opponent
+- **[Binary Converter](https://github.com/Prabh022/binary-converter)** (C++) — decimal↔binary conversion, binary arithmetic, and bitwise operations with a session history
 
 ## Skills
 
