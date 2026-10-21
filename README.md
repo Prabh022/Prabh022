@@ -22,7 +22,7 @@ I build command-line and full-stack projects in C, C++, Python, JavaScript, and 
 
 ## Skills
 
-- **Languages:** C, C++, Python, JavaScript, SQL
+- **Languages:** C, C++, Python, JavaScript, SQL (Oracle, PL/SQL)
 - **Web / Backend:** Node.js, Express, React, MongoDB (Mongoose), SQLite
 - **Tools:** Git, GitHub, Linux
 
